@@ -1,0 +1,31 @@
+﻿  Library.cpp
+  main.cpp
+D:\FII\OOP\persproj\v1\quiz\quiz\Client.h(14,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+D:\FII\OOP\persproj\v1\quiz\quiz\Client.h(20,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+D:\FII\OOP\persproj\v1\quiz\quiz\Client.h(27,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+D:\FII\OOP\persproj\v1\quiz\quiz\Client.h(34,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+D:\FII\OOP\persproj\v1\quiz\quiz\Book.h(21,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+D:\FII\OOP\persproj\v1\quiz\quiz\Book.h(33,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+D:\FII\OOP\persproj\v1\quiz\quiz\Article.h(16,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+D:\FII\OOP\persproj\v1\quiz\quiz\Article.h(29,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+D:\FII\OOP\persproj\v1\quiz\quiz\main.cpp(23,9): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\FII\OOP\persproj\v1\quiz\quiz\main.cpp(121,7): warning C4101: 'sir': unreferenced local variable
+  Generating Code...
+D:\FII\OOP\persproj\v1\quiz\quiz\Article.h(53): warning C4715: 'Article::Borrow_Self': not all control paths return a value
+  quiz.vcxproj -> D:\FII\OOP\persproj\v1\quiz\x64\Debug\quiz.exe
